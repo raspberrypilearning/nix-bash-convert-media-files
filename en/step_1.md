@@ -1,4 +1,4 @@
-# Converting Media files on a Raspberry Pi
+# Converting Media files
 
 You can easily convert media files on the Raspberry Pi using a piece of software called **libav-tools**. 
 
@@ -20,8 +20,8 @@ To convert one format to the other, for sound or video files, you can use the fo
 avconv -i input.ext output.ext
 ~~~
 
-So for instance, to convert a flash video (`.flv`) into an MPEG-4 (`.mp4`) video you would type:
+So for instance, to convert a wav file (`.wav`) into an mp3 file (`.mp4`) you would type:
 
 ~~~bash
-avconv -i my_video.flv my_video.mp4
+avconv -i my_video.wav my_video.mp3
 ~~~
