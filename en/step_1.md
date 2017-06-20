@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-### Converting Media files on a Raspberry Pi
-=======
-# Converting Media files
->>>>>>> master
-
 You can easily convert media files on the Raspberry Pi using a piece of software called **libav-tools**. 
 
 The first thing to do is to download the software. Open a terminal and type the following:
