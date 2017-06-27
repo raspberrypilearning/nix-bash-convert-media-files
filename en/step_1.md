@@ -6,7 +6,7 @@ You can easily convert media files on the Raspberry Pi using a piece of software
 	sudo apt update && sudo apt install libav-tools -y
 	```
 
-- You can check that the software has installed by typing the following into the terminal:
+- Check that the software has installed by typing the following into the terminal:
 
 	```bash
 	avconv -version
