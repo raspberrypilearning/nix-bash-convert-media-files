@@ -1,7 +1,7 @@
 ---
-title: Converting media files
+title: Μετατροπή αρχείων πολυμέσων
 hero_image: images/banner.png
-description: Convering media files with avconv
+description: Μετατροπή αρχείων πολυμέσων με avconv
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests:
 technologies: "nix, bash"
 steps:
   - 
-    title: Converting media files
+    title: Μετατροπή αρχείων πολυμέσων
