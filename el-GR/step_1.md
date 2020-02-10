@@ -1,12 +1,12 @@
-You can easily convert media files on the Raspberry Pi using a piece of software called **ffmpeg**. This is preinstalled on the latest versions of [Raspbian](https://www.raspberrypi.org/downloads/raspbian/).
+Μπορείς εύκολα να μετατρέψεις αρχεία πολυμέσων στο Raspberry Pi χρησιμοποιώντας ένα πρόγραμμα που ονομάζεται **ffmpeg**. Αυτό είναι προεγκατεστημένο στις τελευταίες εκδόσεις του [Raspbian](https://www.raspberrypi.org/downloads/raspbian/).
 
-- To convert sound or video files from one format to another, you can use this basic command:
+- Για να μετατρέψεις αρχεία ήχου ή βίντεο από τη μια μορφή στην άλλη, μπορείς να χρησιμοποιήσεις αυτήν τη βασική εντολή:
 
     ```bash
     ffmpeg -i input.ext1 output.ext2
     ```
 
-- For instance, to convert a wav file (`.wav`) into an mp3 file (`.mp3`), you would type:
+- Για παράδειγμα, για να μετατρέψεις ένα αρχείο wav (`.wav`) σε ένα αρχείο mp3 (`.mp3`), πληκτρολόγησε:
 
     ```bash
     ffmpeg -i my_music.wav my_music.mp3
