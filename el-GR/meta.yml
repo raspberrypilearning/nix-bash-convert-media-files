@@ -1,0 +1,14 @@
+---
+title: Μετατροπή αρχείων πολυμέσων
+hero_image: images/banner.png
+description: Μετατροπή αρχείων πολυμέσων με avconv
+original_url:
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+interests:
+technologies: "nix, bash"
+steps:
+  - title: Μετατροπή αρχείων πολυμέσων
