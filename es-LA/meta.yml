@@ -1,0 +1,15 @@
+---
+title: Conversión de archivos multimedia
+hero_image: images/banner.png
+description: Converting media files with avconv
+original_url:
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+interests:
+technologies: "nix, bash"
+steps:
+  - 
+    title: Conversión de archivos multimedia
